@@ -1,0 +1,22 @@
+{
+  "appTitle": "Animeverse",
+  "homeTitle": "Trending Anime",
+  "favorites": "Favorites",
+  "genres": "Genres",
+  "rating": "Rating",
+  "episodes": "Episodes",
+  "status": "Status",
+  "releaseDate": "Release Date",
+  "synopsis": "Synopsis",
+  "ongoing": "Ongoing",
+  "completed": "Completed",
+  "unknown": "Unknown",
+  "errorFetchingData": "Error fetching data. Please try again.",
+  "noFavoritesYet": "No favorites yet.",
+  "removedFromFavorites": "Removed from favorites",
+  "addedToFavorites": "Added to favorites",
+  "search": "Search",
+  "home": "Home",
+  "settings": "Settings",
+  "language": "Language"
+}

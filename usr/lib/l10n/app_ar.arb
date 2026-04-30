@@ -1,0 +1,22 @@
+{
+  "appTitle": "عالم الأنمي",
+  "homeTitle": "الأنمي الشائع",
+  "favorites": "المفضلة",
+  "genres": "التصنيفات",
+  "rating": "التقييم",
+  "episodes": "الحلقات",
+  "status": "الحالة",
+  "releaseDate": "تاريخ الإصدار",
+  "synopsis": "القصة",
+  "ongoing": "مستمر",
+  "completed": "مكتمل",
+  "unknown": "غير معروف",
+  "errorFetchingData": "حدث خطأ في جلب البيانات. يرجى المحاولة مرة أخرى.",
+  "noFavoritesYet": "لا توجد مفضلة بعد.",
+  "removedFromFavorites": "تم الإزالة من المفضلة",
+  "addedToFavorites": "تم الإضافة إلى المفضلة",
+  "search": "بحث",
+  "home": "الرئيسية",
+  "settings": "الإعدادات",
+  "language": "اللغة"
+}

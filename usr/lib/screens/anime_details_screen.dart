@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:provider/provider.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+import 'package:couldai_user_app/l10n/app_localizations.dart';
 import '../models/anime.dart';
 import '../providers/anime_provider.dart';
 
